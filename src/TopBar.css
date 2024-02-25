@@ -1,0 +1,11 @@
+/* TopBar.css */
+.top-bar {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  
